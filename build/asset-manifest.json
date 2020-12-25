@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-piano/static/js/main.bfb7c9d9.chunk.js",
+    "main.js.map": "/react-piano/static/js/main.bfb7c9d9.chunk.js.map",
+    "runtime-main.js": "/react-piano/static/js/runtime-main.640cde7b.js",
+    "runtime-main.js.map": "/react-piano/static/js/runtime-main.640cde7b.js.map",
+    "static/js/2.453a0c13.chunk.js": "/react-piano/static/js/2.453a0c13.chunk.js",
+    "static/js/2.453a0c13.chunk.js.map": "/react-piano/static/js/2.453a0c13.chunk.js.map",
+    "index.html": "/react-piano/index.html",
+    "precache-manifest.2c8167652009e0710b65be41b87b4cc0.js": "/react-piano/precache-manifest.2c8167652009e0710b65be41b87b4cc0.js",
+    "service-worker.js": "/react-piano/service-worker.js",
+    "static/js/2.453a0c13.chunk.js.LICENSE.txt": "/react-piano/static/js/2.453a0c13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.640cde7b.js",
+    "static/js/2.453a0c13.chunk.js",
+    "static/js/main.bfb7c9d9.chunk.js"
+  ]
+}
